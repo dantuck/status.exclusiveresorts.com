@@ -44,7 +44,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Exclusive Resorts LLC Status
+title: Exclusive Resorts Status
 
 # What language is this site using?
 # Only alters the html[lang] attribute
@@ -96,7 +96,7 @@ params:
   #
   # Default: false
   # BOOLEAN; `true`, `false`
-  useLogo: false
+  useLogo: true
 
   # Where is the logo located, if one is
   # present at all?
@@ -106,7 +106,7 @@ params:
   #
   # Recommended: png, bmp, jpg, or gif
   # for best browser support!
-  logo: /logo.png
+  logo: /erLogo-dkgrey.png
 
   # This is the description that is shown
   # in the footer and meta tags.
