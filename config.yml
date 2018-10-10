@@ -149,7 +149,7 @@ params:
   # warning: DC143C
   # down: FF8C00
   # notice: 708090
-  brand: 333333
+  brand: f6f6f5
   ok: 64a944
   disrupted: f78700
   down: d0021b
